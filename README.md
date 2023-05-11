@@ -4,17 +4,16 @@ Repo for which users will create pull requests for subissions (ImageCLEGmedical 
 Please name the submissions files following the structure presented below:<p>
 **<team_name>_submission<id>**<br>
 <p>e.g. AIMultimediaLab_submission1
+<p><p>
 
-
-
-  How to do it?
+ How to do it?
   
   1. Fork the repository 
   2. Add your submission files in your cloned repository. Please make sure to check your submission files with the validator script you can find in the main repository of this competition (2023_ImageCLEFmed_GANs) in order to make sure that the files you submit respect the requirements.
   3. Create a pull request to this repo.
  
 More information is availabel here: https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/working-with-your-remote-repository-on-github-or-github-enterprise/creating-an-issue-or-pull-request-from-github-desktop
-
+<p><p>
  For the submission we expect the following format:
 <figure_id>,<score>
 
