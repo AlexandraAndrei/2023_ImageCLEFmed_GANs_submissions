@@ -2,7 +2,7 @@
 Repo for which users will create pull requests for subissions (ImageCLEGmedical GAN challenge).
 
 Please name the submissions files following the structure presented below:<p>
-**<team_name>_submission<id>**<br>
+**<team_name>_submission&lt;id&gt;**<br>
 <p>e.g. AIMultimediaLab_submission1
 <p><p>
 
