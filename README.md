@@ -1,9 +1,9 @@
 # 2023_ImageCLEFmed_GANs_submissions
 Repo for which users will create pull requests for subissions (ImageCLEGmedical GAN challenge).
 
-Please name the submissions files following the structure presented below:<br>
+Please name the submissions files following the structure presented below:<p>
 **<team_name>_submission<id>**<br>
-e.g. AIMultimediaLab_submission1
+<p>e.g. AIMultimediaLab_submission1
 
 
 
