@@ -3,7 +3,7 @@ Repo for which users will create pull requests for subissions (ImageCLEGmedical 
 
 Please name the submissions files following the structure presented below:
 **<team_name>_submission&lt;id&gt;**<br>
-<p>e.g. AIMultimediaLab_submission1
+<p>e.g. Team1_submission1
 <p><p>
 
  <p>How to do it?
